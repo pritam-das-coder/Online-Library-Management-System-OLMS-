@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SQLite / Local Databases (keep database/schema.sql tracked)
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
